@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.root{
+    display: flex;
+     background-color: powderblue;
+}
+.nav{
+    width:20%;
+    background-color: aqua;
+}
+.nav_item{
+   width:80%; 
+   background-color:darkkhaki;
+}
+ul li{
+    list-style-type:none;
+    line-height: 40px;
+}
